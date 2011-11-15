@@ -1,6 +1,5 @@
 ### KickoffLabs Wordpress Plugin: Signup Form ###
 Contributors: joshledgard
-Donate link: http://example.com/
 Tags: email, signup, kickofflabs, plugin, widget, viral, form, customer referral, mailing list, subscription, facebook, twitter, landing page, coming soon, launch
 Requires at least: 2.9
 Tested up to: 3.1
